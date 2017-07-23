@@ -1,6 +1,6 @@
 ## sk-request-submitter
 
-This is where you include your WebPart documentation.
+This webpart has been created to demonstrate the webpart capabilty to add list items based upon given inputs.
 
 ### Building the code
 
@@ -8,7 +8,7 @@ This is where you include your WebPart documentation.
 git clone the repo
 npm i
 npm i -g gulp
-gulp
+gulp serve
 ```
 
 This package produces the following:
