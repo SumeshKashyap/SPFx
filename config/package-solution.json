@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sk-request-submitter-client-side-solution",
+    "id": "837e7247-73d0-4ca6-9f3b-a99f0bd92389",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sk-request-submitter.sppkg"
+  }
+}

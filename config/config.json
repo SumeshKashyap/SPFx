@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reqSubmitter/ReqSubmitterWebPart.js",
+      "manifest": "./src/webparts/reqSubmitter/ReqSubmitterWebPart.manifest.json",
+      "outputPath": "./dist/req-submitter.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "reqSubmitterStrings": "webparts/reqSubmitter/loc/{locale}.js"
+  }
+}
